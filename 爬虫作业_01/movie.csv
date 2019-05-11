@@ -1,0 +1,369 @@
+rank,name,country,director,score
+1,肖申克的救赎,美国,"
+                            弗兰克·德拉邦特 Frank Darabont",9.6
+2,霸王别姬,法国,"
+                            陈凯歌 Kaige Chen",9.6
+3,这个杀手不太冷,美国,"
+                            吕克·贝松 Luc Besson",9.4
+4,阿甘正传,意大利,"
+                            罗伯特·泽米吉斯 Robert Zemeckis",9.4
+5,美丽人生,美国,"
+                            罗伯托·贝尼尼 Roberto Benigni",9.5
+6,泰坦尼克号,日本,"
+                            詹姆斯·卡梅隆 James Cameron",9.3
+7,千与千寻,美国,"
+                            宫崎骏 Hayao Miyazaki",9.3
+8,辛德勒的名单,美国,"
+                            史蒂文·斯皮尔伯格 Steven Spielberg",9.5
+9,盗梦空间,印度,"
+                            克里斯托弗·诺兰 Christopher Nolan",9.3
+10,忠犬八公的故事,意大利,"
+                            莱塞·霍尔斯道姆 Lasse Hallström",9.3
+11,机器人总动员,美国,"
+                            安德鲁·斯坦顿 Andrew Stanton",9.3
+12,三傻大闹宝莱坞,日本,"
+                            拉库马·希拉尼 Rajkumar Hirani",9.2
+13,海上钢琴师,美国,"
+                            朱塞佩·托纳多雷 Giuseppe Tornatore",9.2
+14,放牛班的春天,韩国,"
+                            克里斯托夫·巴拉蒂 Christophe Barratier",9.3
+15,楚门的世界,香港,"
+                            彼得·威尔 Peter Weir",9.2
+16,大话西游之大圣娶亲,美国,"
+                            刘镇伟 Jeffrey Lau",9.2
+17,星际穿越,美国,"
+                            克里斯托弗·诺兰 Christopher Nolan",9.2
+18,龙猫,美国,"
+                            宫崎骏 Hayao Miyazaki",9.2
+19,教父,法国,"
+                            弗朗西斯·福特·科波拉 Francis Ford Coppola",9.3
+26,乱世佳人,美国,"
+                            克里斯托弗·诺兰 Christopher Nolan",9.1
+27,活着,美国,"
+                            维克多·弗莱明 Victor Fleming / 乔治·库克 George Cukor",9.2
+28,少年派的奇幻漂流,中国大陆,"
+                            张艺谋 Yimou Zhang",9.2
+29,控方证人,美国,"
+                            李安 Ang Lee",9.0
+30,天堂电影院,日本,"
+                            比利·怀尔德 Billy Wilder",9.6
+31,鬼子来了,印度,"
+                            朱塞佩·托纳多雷 Giuseppe Tornatore",9.2
+32,十二怒汉,美国,"
+                            彼得·杰克逊 Peter Jackson",9.1
+33,天空之城,日本,"
+                            姜文 Wen Jiang",9.2
+34,飞屋环游记,美国,"
+                            Sidney Lumet",9.4
+35,大话西游之月光宝盒,美国,"
+                            宫崎骏 Hayao Miyazaki",9.1
+36,搏击俱乐部,韩国,"
+                            涅提·蒂瓦里 Nitesh Tiwari",9.0
+37,哈尔的移动城堡,德国,"
+                            彼特·道格特 Pete Docter / 鲍勃·彼德森 Bob Peterson",9.0
+38,罗马假日,英国,"
+                            刘镇伟 Jeffrey Lau",9.0
+39,闻香识女人,美国,"
+                            大卫·芬奇 David Fincher",9.0
+40,辩护人,美国,"
+                            宫崎骏 Hayao Miyazaki",9.0
+41,窃听风暴,韩国,"
+                            威廉·惠勒 William Wyler",9.0
+42,末代皇帝,美国,"
+                            马丁·布莱斯 Martin Brest",9.0
+51,海豚湾,美国,"
+                            彼得·杰克逊 Peter Jackson",9.0
+52,狮子王,美国,"
+                            弗朗西斯·福特·科波拉 Francis Ford Coppola",9.2
+53,饮食男女,美国,"
+                            詹姆斯·麦克特格 James McTeigue",8.9
+54,美丽心灵,美国,"
+                            彼得·杰克逊 Peter Jackson",9.0
+55,情书,日本,"
+                            路易·西霍尤斯 Louie Psihoyos",9.3
+56,钢琴家,美国,"
+                            Roger Allers / 罗伯·明可夫 Rob Minkoff",9.0
+57,美国往事,西班牙,"
+                            李安 Ang Lee",9.1
+58,看不见的客人,伊朗,"
+                            朗·霍华德 Ron Howard",9.0
+59,黑客帝国,中国大陆,"
+                            岩井俊二 Shunji Iwai",8.9
+60,西西里的美丽传说,美国,"
+                            罗曼·波兰斯基 Roman Polanski",9.1
+61,小鞋子,美国,"
+                            大卫·芬奇 David Fincher",8.8
+62,大闹天宫,美国,"
+                            赛尔乔·莱翁内 Sergio Leone",9.1
+63,让子弹飞,日本,"
+                            奥里奥尔·保罗 Oriol Paulo",8.8
+64,拯救大兵瑞恩,美国,"
+                            安迪·沃卓斯基 Andy Wachowski / 拉娜·沃卓斯基 Lana Wachowski",8.9
+76,沉默的羔羊,美国,"
+                            乔纳森·戴米 Jonathan Demme",8.8
+77,猫鼠游戏,美国,"
+                            史蒂文·斯皮尔伯格 Steven Spielberg",8.9
+78,天使爱美丽,美国,"
+                            让-皮埃尔·热内 Jean-Pierre Jeunet",8.7
+79,勇敢的心,美国,"
+                            梅尔·吉布森 Mel Gibson",8.9
+80,蝴蝶效应,美国,"
+                            埃里克·布雷斯 Eric Bress / J·麦基·格鲁伯 J. Mackye Gruber",8.7
+81,剪刀手爱德华,日本,"
+                            蒂姆·波顿 Tim Burton",8.7
+82,春光乍泄,日本,"
+                            王家卫 Kar Wai Wong",8.9
+83,心灵捕手,美国,"
+                            格斯·范·桑特 Gus Van Sant",8.8
+84,禁闭岛,美国,"
+                            Martin Scorsese",8.7
+85,布达佩斯大饭店,美国,"
+                            韦斯·安德森 Wes Anderson",8.8
+86,穿条纹睡衣的男孩,香港,"
+                            马克·赫尔曼 Mark Herman",9.0
+87,入殓师,美国,"
+                            泷田洋二郎 Yôjirô Takita",8.8
+88,阿凡达,澳大利亚,"
+                            詹姆斯·卡梅隆 James Cameron",8.7
+89,幽灵公主,香港,"
+                            宫崎骏 Hayao Miyazaki",8.8
+90,阳光灿烂的日子,日本,"
+                            姜文 Wen Jiang",8.8
+101,消失的爱人,美国,"
+                            大卫·芬奇 David Fincher",8.7
+102,大鱼,美国,"
+                            蒂姆·波顿 Tim Burton",8.8
+103,一一,香港,"
+                            杨德昌 Edward Yang",9.0
+104,射雕英雄传之东成西就,韩国,"
+                            刘镇伟 Jeffrey Lau",8.7
+105,阳光姐妹淘,香港,"
+                            姜炯哲 Hyeong-Cheol Kang",8.8
+106,甜蜜蜜,日本,"
+                            陈可辛 Peter Chan",8.8
+107,爱在黎明破晓前,日本,"
+                            理查德·林克莱特 Richard Linklater",8.8
+108,请以你的名字呼唤我,美国,"
+                            森淳一 Junichi Mori",9.0
+109,侧耳倾听,日本,"
+                            卢卡·瓜达尼诺 Luca Guadagnino",8.8
+110,驯龙高手,香港,"
+                            近藤喜文 Yoshifumi Kondo",8.8
+111,红辣椒,韩国,"
+                            迪恩·德布洛斯 Dean DeBlois / 克里斯·桑德斯 Chris Sanders",8.7
+112,倩女幽魂,日本,"
+                            今敏 Satoshi Kon",8.9
+113,恐怖直播,美国,"
+                            程小东 Siu-Tung Ching",8.7
+114,风之谷,美国,"
+                            金秉祐 Byeong-woo Kim",8.7
+115,超脱,日本,"
+                            宫崎骏 Hayao Miyazaki",8.8
+116,爱在日落黄昏时,美国,"
+                            托尼·凯耶 Tony Kaye",8.8
+117,上帝之城,日本,"
+                            理查德·林克莱特 Richard Linklater",8.8
+118,菊次郎的夏天,韩国,"
+                            Kátia Lund / Fernando Meirelles",8.9
+119,幸福终点站,韩国,"
+                            北野武 Takeshi Kitano",8.8
+120,杀人回忆,日本,"
+                            史蒂文·斯皮尔伯格 Steven Spielberg",8.7
+126,神偷奶爸,日本,"
+                            皮艾尔·柯芬 Pierre Coffin / 克里斯·雷纳德 Chris Renaud",8.5
+127,萤火之森,香港,"
+                            大森贵弘 Takahiro Omori",8.8
+128,唐伯虎点秋香,美国,"
+                            克里斯托弗·诺兰 Christopher Nolan",8.7
+129,超能陆战队,美国,"
+                            李力持 Lik-Chi Lee",8.5
+130,怪兽电力公司,美国,"
+                            唐·霍尔 Don Hall / 克里斯·威廉姆斯 Chris Williams",8.6
+131,岁月神偷,日本,"
+                            彼特·道格特 Pete Docter / 大卫·斯沃曼 David Silverman",8.6
+132,电锯惊魂,日本,"
+                            罗启锐 Alex Law",8.7
+133,七武士,美国,"
+                            詹姆斯·温 James Wan",8.7
+134,无人知晓,香港,"
+                            黑泽明 Akira Kurosawa",9.2
+135,真爱至上,日本,"
+                            是枝裕和 Hirokazu Koreeda",9.1
+136,疯狂原始人,美国,"
+                            保罗·格林格拉斯 Paul Greengrass",8.8
+137,喜宴,美国,"
+                            理查德·柯蒂斯 Richard Curtis",8.6
+138,英雄本色,中国大陆,"
+                            科克·德·米科 Kirk De Micco / 克里斯·桑德斯 Chris Sanders",8.7
+139,萤火虫之墓,英国,"
+                            李安 Ang Lee",8.9
+140,东邪西毒,香港,"
+                            吴宇森 John Woo",8.6
+151,荒蛮故事,美国,"
+                            达米安·斯兹弗隆 Damián Szifron",8.8
+152,雨人,美国,"
+                            巴瑞·莱文森 Barry Levinson",8.7
+153,达拉斯买家俱乐部,美国,"
+                            弗朗西斯·福特·科波拉 Francis Ford Coppola",8.8
+154,完美的世界,美国,"
+                            让-马克·瓦雷 Jean-Marc Vallée",8.7
+155,卢旺达饭店,美国,"
+                            克林特·伊斯特伍德 Clint Eastwood",9.1
+156,花样年华,香港,"
+                            李·昂克里奇 Lee Unkrich",8.8
+157,海边的曼彻斯特,美国,"
+                            特瑞·乔治 Terry George",8.9
+158,被解救的姜戈,美国,"
+                            王家卫 Kar Wai Wong",8.6
+159,恋恋笔记本,美国,"
+                            肯尼斯·罗纳根 Kenneth Lonergan",8.6
+160,你看起来好像很好吃,日本,"
+                            昆汀·塔伦蒂诺 Quentin Tarantino",8.6
+161,海洋,美国,"
+                            尼克·卡索维茨 Nick Cassavetes",8.5
+162,虎口脱险,中国大陆,"
+                            藤森雅也 Masaya Fujimori",8.8
+163,三块广告牌,日本,"
+                            雅克·贝汉 Jacques Perrin / 雅克·克鲁奥德 Jacques Cluzaud",9.0
+164,头脑特工队,美国,"
+                            杰拉尔·乌里 Gérard Oury",8.9
+165,二十二,美国,"
+                            马丁·麦克唐纳 Martin McDonagh",8.7
+166,无敌破坏王,美国,"
+                            彼特·道格特 Pete Docter / 罗纳尔多·德尔·卡门 Ronaldo Del Carmen",8.7
+167,冰川时代,美国,"
+                            郭柯 Ke Guo",8.7
+168,雨中曲,美国,"
+                            新海诚 Makoto Shinkai",8.4
+169,我是山姆,美国,"
+                            瑞奇·莫尔 Rich Moore",8.7
+170,燃情岁月,美国,"
+                            卡洛斯·沙尔丹哈 Carlos Saldanha / 克里斯·韦奇 Chris Wedge",8.5
+176,未麻的部屋,日本,"
+                            今敏 Satoshi Kon",8.9
+177,穿越时空的少女,日本,"
+                            细田守 Mamoru Hosoda",8.6
+178,模仿游戏,美国,"
+                            莫滕·泰杜姆 Morten Tyldum",8.6
+179,魂断蓝桥,瑞典,"
+                            茂文·勒鲁瓦 Mervyn LeRoy",8.8
+180,一个叫欧维的男人决定去死,英国,"
+                            汉内斯·赫尔姆 Hannes Holm",8.8
+181,猜火车,日本,"
+                            丹尼·博伊尔 Danny Boyle",8.5
+182,房间,日本,"
+                            伦尼·阿伯拉罕森 Lenny Abrahamson",8.8
+183,忠犬八公物语,日本,"
+                            Seijirô Kôyama",9.1
+184,魔女宅急便,意大利,"
+                            宫崎骏 Hayao Miyazaki",8.6
+185,恐怖游轮,香港,"
+                            克里斯托弗·史密斯 Christopher Smith",8.4
+186,罗生门,中国大陆,"
+                            黑泽明 Akira Kurosawa",8.7
+187,完美陌生人,日本,"
+                            保罗·格诺维瑟 Paolo Genovese",8.5
+188,阿飞正传,德国,"
+                            王家卫 Kar Wai Wong",8.5
+189,哪吒闹海,台湾,"
+                            严定宪 Dingxian Yan / 王树忱 Shuchen Wang",8.9
+190,香水,印度,"
+                            汤姆·提克威 Tom Tykwer",8.5
+201,惊魂记,美国,"
+                            Alfred Hitchcock",8.9
+202,天书奇谭,中国大陆,"
+                            王树忱 Shuchen Wang / 钱运达 Yunda Qian",9.1
+203,青蛇,香港,"
+                            徐克 Hark Tsui",8.5
+204,疯狂的石头,英国,"
+                            宁浩 Hao Ning",8.4
+205,一次别离,泰国,"
+                            阿斯哈·法哈蒂  Asghar Farhadi",8.7
+206,追随,日本,"
+                            詹姆斯·卡梅隆 James Cameron",8.6
+207,源代码,印度,"
+                            克里斯托弗·诺兰 Christopher Nolan",8.9
+208,初恋这件小事,美国,"
+                            邓肯·琼斯 Duncan Jones",8.4
+209,步履不停,美国,"
+                            普特鹏·普罗萨卡·那·萨克那卡林 Puttipong Promsaka Na Sakolnakorn / 华森·波克彭...<br>
+                            2010&nbsp;/&nbsp;泰国&nbsp;/&nbsp;剧情 喜剧 爱情
+                        </p>
+
+                        
+                        <div class=""star"">
+                                <span class=""rating4-t""></span>
+                                <span class=""rating_num"" property=""v:average"">8.3</span>
+                                <span property=""v:best"" content=""10.0""></span>
+                                <span>601909人评价</span>
+                        </div>
+
+                            <p class=""quote"">
+                                <span class=""inq"">黑小鸭速效美白记。</span>
+                            </p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class=""item"">
+                <div class=""pic"">
+                    <em class="""">210</em>
+                    <a href=""https://movie.douban.com/subject/2222996/"">
+                        <img width=""100"" alt=""步履不停"" src=""https://img1.doubanio.com/view/photo/s_ratio_poster/public/p672446737.jpg"" class="""">
+                    </a>
+                </div>
+                <div class=""info"">
+                    <div class=""hd"">
+                        <a href=""https://movie.douban.com/subject/2222996/"" class="""">
+                            <span class=""title"">步履不停</span>
+                                    <span class=""title"">&nbsp;/&nbsp;歩いても 歩いても</span>
+                                <span class=""other"">&nbsp;/&nbsp;横山家之味(港 / 台) </span>
+                        </a>
+
+
+                            <span class=""playable"">[可播放]</span>
+                    </div>
+                    <div class=""bd"">
+                        <p class="""">
+                            是枝裕和 Hirokazu Koreeda",8.3
+210,海蒂和爷爷,日本,"
+                            阿兰·葛斯彭纳 Alain Gsponer",8.8
+211,新龙门客栈,美国,"
+                            李惠民 Raymond Lee",9.1
+212,小萝莉的猴神大叔,美国,"
+                            卡比尔·汗 Kabir Khan",8.5
+226,这个男人来自地球,美国,"
+                            理查德·沙因克曼 Richard Schenkman",8.5
+227,聚焦,美国,"
+                            Steven Spielberg",8.5
+228,末路狂花,美国,"
+                            托马斯·麦卡锡 Thomas McCarthy",8.8
+229,变脸,美国,"
+                            雷德利·斯科特 Ridley Scott",8.7
+230,勇闯夺命岛,美国,"
+                            吴宇森 John Woo",8.4
+231,发条橙,美国,"
+                            迈克尔·贝 Michael Bay",8.6
+232,黑鹰坠落,日本,"
+                            Stanley Kubrick",8.5
+233,奇迹男孩,韩国,"
+                            雷德利·斯科特 Ridley Scott",8.6
+234,黄金三镖客,美国,"
+                            斯蒂芬·卓博斯基 Stephen Chbosky",8.6
+235,非常嫌疑犯,美国,"
+                            Sergio Leone",9.1
+236,我爱你,美国,"
+                            新海诚 Makoto Shinkai",8.3
+237,国王的演讲,美国,"
+                            布莱恩·辛格 Bryan Singer",8.6
+238,卡萨布兰卡,中国大陆,"
+                            秋昌民 Chang-min Choo",9.0
+239,千钧一发,韩国,"
+                            汤姆·霍珀 Tom Hooper",8.4
+240,遗愿清单,美国,"
+                            乔治·米勒 George Miller",8.6
+241,美国丽人,中国大陆,"
+                            迈克尔·柯蒂兹 Michael Curtiz",8.6
+242,驴得水,韩国,"
+                            安德鲁·尼科尔 Andrew Niccol",8.7

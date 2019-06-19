@@ -1,3 +1,3 @@
 <?php
- echo hello;
+ echo wgd;
 php>
